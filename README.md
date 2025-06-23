@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Demo
+# Demo checking the log function to know fetch
 =======
 ## Idea Title	
 StartUp-Incubator : AI powered web portal for Startups
