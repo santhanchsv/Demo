@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Demo checking the log function to know fetch and merged now pushing 
+# Demo checking the log function to know fetch and merged now pushing and now pulling
 =======
 ## Idea Title	
 StartUp-Incubator : AI powered web portal for Startups
